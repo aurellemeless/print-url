@@ -1,4 +1,4 @@
-/* 
+/*  this file mbd
  * printUrl v0.2
  * @desc printing plug-in for jQuery, print a remote page
  * @author Aurelle Meless
