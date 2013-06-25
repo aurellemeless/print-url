@@ -9,7 +9,12 @@
  * 
  * Usage:
  *      var url='https://github.com/aurellemeless/print-url';
+ *      // only if your domain is 'github.com'
  *      $.printUrl(url);
+ * Notice: 
+ *      1- this plug-in is available only if the url argument is on the same 
+ *          domain, that for security reasons.
+ *      2- don't work properly under mozilla firefox
  */
 (function($){
     $.printUrl=function(url){
