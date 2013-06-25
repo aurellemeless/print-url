@@ -1,14 +1,14 @@
 /* 
- * printUrl v0.1
+ * printUrl v0.2
  * @desc printing plug-in for jQuery, print a remote page
- * @author Sergy Leves
+ * @author Aurelle Meless
  * 
  * Licensed under GPL license:
  *              http://www.gnu.org/licenses/gpl.html
- * (c) Sergy Leves 2013
+ * (c) Aurelle Meless 2013
  * 
  * Usage:
- *      var url=http://www.gnu.org/licenses/gpl.html
+ *      var url='https://github.com/aurellemeless/print-url';
  *      $.printUrl(url);
  */
 (function($){
